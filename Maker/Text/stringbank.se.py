@@ -70,4 +70,4 @@ def serialize_stringbank(file_name):
 	f.close();
 	return;
 
-serialize_stringbank('13240');
+serialize_stringbank('266');
